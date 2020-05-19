@@ -1,6 +1,6 @@
 # workLife
 
-*Name*  Brett Johnson
+*Name*:  Brett Johnson
 
 *Afillitations:* Hakai Institute
 
