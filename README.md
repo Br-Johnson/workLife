@@ -1,4 +1,5 @@
-# worklife
-May 14 2020
+# workLife
 
-Moving towards maintaining an Open Agenda. updates, tasks, schedules, meeting notes, etc... this is an experiment
+*Name*  Brett Johnson
+*Afillitations:* Hakai Institute
+*Roles:* Scientific Data Specialist, Salmon Biologist, Oceanographer, Salmon Ocean Observation System (IYS-OOS) Technical Team Lead
