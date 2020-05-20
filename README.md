@@ -2,6 +2,8 @@
 
 **Name**:  Brett Johnson
 
+**Status**: Working remotely
+
 **Afillitations**: Hakai Institute
 
 **Specialties**: Juvenile salmon ocean ecology; biodiversity data standards, Open Science   
