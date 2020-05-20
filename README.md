@@ -10,7 +10,7 @@ For more details, see my [CV](https://github.com/Br-Johnson/CV/blob/master/cv.pd
 
 ## Communications
 
-Real-time processing: Phone calls
+Real-time processing: Phone calls, texts
 
 Daily batch processing: Email (brett.johnson@hakai.org), Slack Messages
 
