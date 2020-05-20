@@ -6,7 +6,7 @@
 
 *Roles:* Scientific Data Specialist, Lead Consultant, Salmon Biologist, Salmon Ocean Observation System (IYS-OOS) Technical Team Lead.
 
-For more details, see my [CV](https://github.com/br-johnson/CV/)
+For more details, see my [CV](https://github.com/Br-Johnson/CV/blob/master/cv.pdf)
 
 ## Communications
 
