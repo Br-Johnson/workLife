@@ -1,16 +1,16 @@
 # workLife
 
-*Name*:  Brett Johnson
+**Name**:  Brett Johnson
 
-*Afillitations*: Hakai Institute
+**Afillitations**: Hakai Institute
 
-*Specialties*: Juvenile salmon ocean ecology; biodiversity data standards, Open Science   
+**Specialties**: Juvenile salmon ocean ecology; biodiversity data standards, Open Science   
 
-*Background*: Fisheries and wildlife ecology, salmon biology, forest ecology, technology, field operations.
+**Background**: Fisheries and wildlife ecology, salmon biology, forest ecology, technology, field operations.
 
-*Roles:* 
+**Roles:** 
 
-* Salmon Ocean Observation System (IYS-OOS) Technical Team Lead (80 % of work time):
+* **Salmon Ocean Observation System (IYS-OOS) Technical Team Lead (80 % of work time)**
   + activities:
     - Collaborate with the Internationak Year of the Salmon project staff and affiliates
     - Develop, integrate and deliver informatics systems
@@ -18,14 +18,14 @@
     - Build cyberinfrastructure for the future of salmon informatics
     
 
-* Scientific Data Specialist (≤ 20% of work time):
+* **Scientific Data Specialist (≤ 20% of work time):**
   + activities: 
     - Own full life-cycle scientific-data generation process
     - Consult on information management workflows
     - Train staff and affiliates in scientific computing
     - Develop tools and workflows for managing and interacting with Hakai's Open Data
 
-* Salmon Biologist (> 0 %) ;)
+* **Hakai Salmon Biologist (> 0 %) ;)**
   + activities:
     - Report annual juvenile salmon migration observations
     - Contribute to research direction and hypothesis testing
