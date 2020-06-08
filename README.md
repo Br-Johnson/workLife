@@ -6,7 +6,7 @@
 
 **Afillitations**: Hakai Institute
 
-**Specialties**: Juvenile salmon ocean ecology; biodiversity data standards, Open Science   
+**Specialties**: Ecological informatics, juvenile salmon ocean ecology; biodiversity data, open science   
 
 **Background**: Fisheries and wildlife ecology, salmon biology, forest ecology, technology, field operations.
 
