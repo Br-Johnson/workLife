@@ -38,7 +38,7 @@
 
 To see what I'm currently working on, follow along with me here on GitHub. Together, we can build a better more equitable, ecological, and enriched future.
 
-For more details on my previous experience, see my [CV](https://github.com/Br-Johnson/CV/blob/master/cv.pdf)
+For more details on my previous experience, see my [CV](https://github.com/Br-Johnson/CV/blob/master/cv.pdf).
 
 ## Communications
 
