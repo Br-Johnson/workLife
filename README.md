@@ -1,12 +1,14 @@
-# workLife
+# workLife actualization
 
 **Name**:  Brett Johnson
+
+**Dabbling in:** BioEco Data Science
 
 **Status**: Working remotely
 
 **Afillitations**: Hakai Institute
 
-**Specialties**: Ecological informatics, juvenile salmon ocean ecology; biodiversity data, open science   
+**Specialties**: Ecological informatics, juvenile salmon ocean ecology, biodiversity data, open and reproducible science   
 
 **Background**: Fisheries and wildlife ecology, salmon biology, forest ecology, technology, field operations.
 
@@ -34,7 +36,7 @@
     - Mobilize Hakai Juvenile Salmon Program Data
     
 
-To see what I'm currently working on, follow along with me here on GitHub. Together, let's shape reality.
+To see what I'm currently working on, follow along with me here on GitHub. Together, we can build a better more equitable, ecological, and enriched future.
 
 For more details on my previous experience, see my [CV](https://github.com/Br-Johnson/CV/blob/master/cv.pdf)
 
@@ -42,7 +44,7 @@ For more details on my previous experience, see my [CV](https://github.com/Br-Jo
 
 Real-time processing: Phone calls, texts
 
-Daily batch processing: Email (brett.johnson@hakai.org), Slack Messages
+Daily batch processing: Email (brett.johnson@hakai.org), Slack Messages. Comms check at 8:00 AM, and 12 PM PDT
 
 Weekly batch processing: GitHub Issues/Comments/PRs, Twitter (@_BrettJohnson), Instagram (@coastaloco).
 
