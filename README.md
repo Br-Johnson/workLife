@@ -2,13 +2,13 @@
 
 **Name**:  Brett Johnson
 
-**Dabbling in:** BioEco Informatics and Metascience
-
 **Status**: Working remotely
 
 **Afillitations**: Hakai Institute
 
 **Title**: Scientific Data Specialist
+
+**Dabbling in:** BioEco Informatics and Metascience
 
 **Specialties**: Juvenile salmon ocean ecology, biodiversity data, ecological informatics, open and reproducible science   
 
@@ -18,25 +18,23 @@
 
 * **Salmon Ocean Observation System (IYS-OOS) Technical Team Lead (80 % of work time)**
   + activities:
-    - Collaborate with the Internationak Year of the Salmon project staff and affiliates
+    - Collaborate with the International Year of the Salmon project staff and affiliates
     - Develop, integrate and deliver informatics systems
     - Deepen community engagement and impact
     - Build cyberinfrastructure for the future of salmon informatics
     
-
-* **Hakai Consultant**(≤ 20% of work time):**
+* **Consultant**(≤ 20% of work time):**
   + activities: 
     - Advise on full life-cycle scientific-data generation process
     - Consult on information management workflows
     - Train staff and affiliates in scientific computing
     - Develop tools and workflows for managing and interacting with Hakai's Open Data
 
-* **Hakai Salmon Biologist (> 0 %) ;)**
+* **Salmon Biologist (> 0 %) ;)**
   + activities:
     - Report annual juvenile salmon migration observations
     - Contribute to research direction and hypothesis testing
     - Mobilize Hakai Juvenile Salmon Program Data
-    
 
 To see what I'm currently working on, follow along with me here on GitHub. Together, we can build a better more equitable, ecological, and enriched future.
 
