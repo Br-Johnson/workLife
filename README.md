@@ -8,7 +8,7 @@
 
 **Title**: Scientific Data Specialist
 
-**Dabbling in:** BioEco Informatics and Metascience
+**Dabbling in:** BioEco Informatics and meta-Sciences
 
 **Specialties**: Juvenile salmon ocean ecology, biodiversity data, ecological informatics, open and reproducible science   
 
