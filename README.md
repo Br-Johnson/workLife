@@ -2,7 +2,7 @@
 
 **Name**:  Brett Johnson
 
-**Status**: Working remotely
+**Status**: Working remotely and from the Quadra Centre for Coastal Dialogue
 
 **Afillitations**: Hakai Institute
 
@@ -16,21 +16,21 @@
 
 **Roles:** 
 
-* **Salmon Ocean Observation System (IYS-OOS) Technical Team Lead (80 % of work time)**
+* **Salmon Ocean Observation System (IYS-OOS) Technical Lead (~30 % of work time)**
   + activities:
     - Collaborate with the International Year of the Salmon project staff and affiliates
     - Develop, integrate and deliver informatics systems
     - Deepen community engagement and impact
     - Build cyberinfrastructure for the future of salmon informatics
     
-* **Consultant**(≤ 20% of work time):**
+* **Consultant**(~30% of work time):**
   + activities: 
     - Advise on full life-cycle scientific-data generation process
     - Consult on information management workflows
     - Train staff and affiliates in scientific computing
     - Develop tools and workflows for managing and interacting with Hakai's Open Data
 
-* **Salmon Biologist (> 0 %) ;)**
+* **Salmon Biologist (~30% of work time) ;)**
   + activities:
     - Report annual juvenile salmon migration observations
     - Contribute to research direction and hypothesis testing
